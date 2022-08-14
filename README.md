@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dash10107
-- 👀 I’m interested in ...Anime and Fiction 
+- 👀 I’m interested in ...Anime and Fiction and Coding
 - 🌱 I’m currently learning ...Computer Engineering Diploma at K.J. Somaiya Polytechnic
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...dakshcjain@gmail.com 
 
 <!---
