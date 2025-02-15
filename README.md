@@ -24,7 +24,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/Dash10107/Dash10107/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/Dash10107/Dash10107/blob/output/github-contribution-grid-snake-dark.svg" alt="" />
 </div>
 
 <h2 align="center">🚀 About Me</h2>
