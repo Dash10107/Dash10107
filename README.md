@@ -1,24 +1,136 @@
-# 💫 About Me:
-👋 Hi, I’m @Dash10107<br>- 👀 I’m interested in ... Development | Machine Learning | DevOps.<br>- 🌱 I’m undertaking ...Computer Engineering BTech at SPIT, Andheri.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daksh%20Jain&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=500&lines=Generative+AI+Engineer;Full-Stack+Developer;Competitive+Programmer;Cloud+%26+DevOps+Pro;Blockchain+Explorer" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://twitter.com/Daksh10107"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/daksh-jain-556b78212/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/dakshjain.19/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:dakshcjain@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="http://dash10107.me/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dash10107&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/Dash10107?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/Dash10107?style=for-the-badge&color=green" alt="GitHub Followers" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github.com/Dash10107/Dash10107/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  Greetings! I'm Daksh, a passionate tech enthusiast with a knack for innovative solutions. <br />
+  💡 Experienced in AI/ML, full-stack development, and competitive programming. <br />
+  🌱 Always eager to learn and tackle new challenges in the ever-evolving tech landscape. <br />
+  🎯 My mission: Leveraging technology to create impactful solutions for real-world problems.
+</p>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Source%20Start%20Winner-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Source Start Winner" />
+  <img src="https://img.shields.io/badge/-28%2B%20PRs%20Merged-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
+  <img src="https://img.shields.io/badge/-30%2B%20Issues%20Resolved-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Issues Resolved" />
+</div>
+
+<p align="center">
+  🏅 Winner of BITS PILANI Campus Hackathon 2025 in AI Domain<br>
+  🏆 Winner of TPIA in Brainrot International Hackathon<br>
+  🌟 3 Star on CodeChef and Pupil on Codeforces
+</p>
+
+<h2 align="center">💻 Competitive Programming Profile</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Dash10107/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/dash10107"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/Dash10107"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dash10107?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
+</div>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Dragonfury1901) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daksh-jain-556b78212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakshcjain@gmail.com) 
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dash10107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dash10107&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dash10107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,nextjs,vue,angular,svelte" /><br />
+  <h3>Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,mongodb,postgres,mysql,redis,graphql" /><br />
+  <h3>AI/ML & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,django,fastapi,spring,dotnet,laravel,ruby" /><br />
+  <h3>Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,vim,vscode,postman,figma,xd" /><br />
+  <h3>Frontend & Build Tools</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,webpack,vite,babel,jest" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dash10107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center">📊 GitHub Stats & Top Repos</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dash10107&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dash10107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daksh's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dash10107&theme=tokyonight&hide_border=true" alt="Daksh's Streak" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Dash10107&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dash10107&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=Dash10107&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+<h2 align="center">💻 Github Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dash10107&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1&row=1" alt="GitHub Trophies" />
+</div>
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/Dash10107/Dukaan">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=Dukaan&theme=tokyonight&hide_border=true" alt="Dukaan Project" />
+  </a>
+  <a href="https://github.com/Dash10107/Hustl-Brainrot">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=Hustl-Brainrot&theme=tokyonight&hide_border=true" alt="Hustl-Brainrot Project" />
+  </a>
+</div>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dash10107&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  I'm always open to collaborations and exciting opportunities. Feel free to reach out for tech discussions or project ideas!
+</p>
+
+<div align="center">
+  <a href="https://twitter.com/Daksh10107"><img src="https://img.shields.io/badge/-@Daksh10107-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&size=large" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/daksh-jain-556b78212/"><img src="https://img.shields.io/badge/-Daksh%20Jain-0077B5?style=flat-square&logo=Linkedin&logoColor=white&size=large" alt="LinkedIn" /></a>
+  <a href="mailto:dakshcjain@gmail.com"><img src="https://img.shields.io/badge/-dakshcjain@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&size=large" alt="Gmail" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
+
+<p align="center">⭐️ From [Dash10107]</p>
