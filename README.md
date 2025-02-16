@@ -39,15 +39,16 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Source%20Start%20Winner-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Source Start Winner" />
-  <img src="https://img.shields.io/badge/-28%2B%20PRs%20Merged-4CAF50?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
-  <img src="https://img.shields.io/badge/-30%2B%20Issues%20Resolved-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Issues Resolved" />
+  <img src="https://img.shields.io/badge/-🏆%204x%20Hackathon%20Winner-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="4x Hackathon Winner" />
+  <img src="https://img.shields.io/badge/-🌟%203%20Star%20on%20CodeChef-4CAF50?style=for-the-badge&logo=codechef&logoColor=white" alt="3 Star on CodeChef" />
+  <img src="https://img.shields.io/badge/-💡%20Pupil%20on%20Codeforces-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Pupil on Codeforces" />
 </div>
 
 <p align="center">
   🏅 Winner of BITS PILANI Campus Hackathon 2025 in AI Domain<br>
   🏆 Winner of TPIA in Brainrot International Hackathon<br>
-  🌟 3 Star on CodeChef and Pupil on Codeforces
+  🏅 Source Start Winner – Contributed 28+ PRs & Resolved 30+ Issues in Open Source<br>
+  🌟 3-Star Rated on CodeChef • 💡 Pupil on Codeforces
 </p>
 
 <h2 align="center">💻 Competitive Programming Profile</h2>
