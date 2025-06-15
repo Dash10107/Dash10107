@@ -101,14 +101,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Dash10107&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1&row=1" alt="GitHub Trophies" />
 </div>
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center">🌟 Featured Repositories</h2>
 
 <div align="center">
-  <a href="https://github.com/Dash10107/Dukaan">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=Dukaan&theme=tokyonight&hide_border=true" alt="Dukaan Project" />
+  <a href="https://github.com/Dash10107/ml-nlp-portfolio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=ml-nlp-portfolio&theme=tokyonight&hide_border=true" alt="ml-nlp-portfolio" />
   </a>
   <a href="https://github.com/Dash10107/Hustl-Brainrot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=Hustl-Brainrot&theme=tokyonight&hide_border=true" alt="Hustl-Brainrot Project" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=ml-explorer-notebooks&theme=tokyonight&hide_border=true" alt="ml-explorer-notebooks" />
   </a>
 </div>
 
@@ -126,7 +126,7 @@
 
 <div align="center">
   <a href="https://twitter.com/Daksh10107"><img src="https://img.shields.io/badge/-@Daksh10107-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&size=large" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/daksh-jain-556b78212/"><img src="https://img.shields.io/badge/-Daksh%20Jain-0077B5?style=flat-square&logo=Linkedin&logoColor=white&size=large" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dakshcjain/"><img src="https://img.shields.io/badge/-Daksh%20Jain-0077B5?style=flat-square&logo=Linkedin&logoColor=white&size=large" alt="LinkedIn" /></a>
   <a href="mailto:dakshcjain@gmail.com"><img src="https://img.shields.io/badge/-dakshcjain@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&size=large" alt="Gmail" /></a>
 </div>
 
