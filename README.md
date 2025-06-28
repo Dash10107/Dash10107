@@ -50,7 +50,7 @@
   🏆 Winner of TPIA in Brainrot International Hackathon<br>
   🏆 Winner of DCC InnoHacks 2025  in AI Domain 1st Prize <br>
   🏅 Source Start Winner – Contributed 28+ PRs & Resolved 30+ Issues in Open Source<br>
-  🌟 3-Star Rated on CodeChef • 💡 Pupil on Codeforces
+  🌟 4-Star Rated on CodeChef • 💡 Pupil on Codeforces
 </p>
 
 <h2 align="center">💻 Competitive Programming Profile</h2>
@@ -107,8 +107,8 @@
   <a href="https://github.com/Dash10107/ml-nlp-portfolio">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=ml-nlp-portfolio&theme=tokyonight&hide_border=true" alt="ml-nlp-portfolio" />
   </a>
-  <a href="https://github.com/Dash10107/Hustl-Brainrot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=ml-explorer-notebooks&theme=tokyonight&hide_border=true" alt="ml-explorer-notebooks" />
+  <a href="https://github.com/Dash10107/agentic-ai">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=agentic-ai&theme=tokyonight&hide_border=true" alt="agentic-ai" />
   </a>
 </div>
 
