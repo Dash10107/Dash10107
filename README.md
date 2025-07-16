@@ -25,56 +25,41 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-Hi, I'm Daksh — a **technologist, builder, and problem-solver**.  
-I love taking **complex real-world challenges** and turning them into elegant code.
+> *"The best way to predict the future is to invent it."* — Alan Kay
 
-- 🔬 AI/ML & Generative Intelligence
-- 💻 Full-stack Engineering (MERN & JAMStack)
-- ☁️ Cloud DevOps & System Design
-- 💡 Blockchain, Web3 & Smart Contracts
-- ⚔️ Competitive Programming (Codeforces Pupil, 4⭐️ CodeChef)
+I'm a **Generative AI Engineer** and **Full-Stack Developer** passionate about creating intelligent systems that solve real-world problems. My journey spans from competitive programming arenas to AI research labs, always driven by curiosity and the desire to build something meaningful.
 
-> _"Tech isn't just code — it's a way to empower ideas and people."_
+**Currently focused on:**
+- 🤖 **Generative AI & LLMs** — Building next-gen AI applications
+- 🏗️ **Full-Stack Development** — MERN, Next.js, and modern web technologies  
+- ☁️ **Cloud Architecture** — Scalable systems on AWS, GCP, and Azure
+- 🏆 **Competitive Programming** — Sharpening problem-solving skills
 
 ---
 
-## 🏆 Achievements
+## 🎯 Recent Highlights
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆%205x%20Hackathon%20Winner-FFD700?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/🌟%204%20Star%20on%20CodeChef-4CAF50?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/💡%20Pupil%20on%20Codeforces-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+| 🏆 **Achievement** | 📅 **When** | 🎯 **Impact** |
+|:---|:---:|:---|
+| **IIT Delhi Bytes Runner Hackathon** | 2025 | 🥇 AI Category Winner |
+| **BITS Pilani TechXlerate** | 2025 | 🥇 AI Innovation Champion |
+| **Brainrot Global Hackathon** | 2024 | 🏆 TPIA Winner |
+| **Source Start Contributor** | 2024 | 28+ PRs, 30+ Issues Resolved |
+| **Knight @Leetcode** | Ongoing | 850+ Problems Solved with 2000 Ranking |
+
 </div>
-
-<p align="center">
-🏅 IIT Delhi Bytes Runner Hackathon 2025 – 🥇 AI Category<br>
-🏅 BITS Pilani TechXlerate Hackathon 2025 – 🥇 AI Category<br>
-🏆 Brainrot Global Hackathon – TPIA Winner<br>
-🏆 DCC InnoHacks 2025 – 🥇 AI Innovation<br>
-🎯 Source Start Winner – 28+ PRs, 30+ Issues Resolved
-</p>
-
----
-
-## 🤖 Competitive Programming
-
-<div align="center">
-  <a href="https://leetcode.com/u/Dash10107/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/dragoncoder13"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/Dash10107"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</div>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dash10107?theme=dark&font=Adamina&width=500" />
-</p>
 
 ---
 
 
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
@@ -89,7 +74,7 @@ I love taking **complex real-world challenges** and turning them into elegant co
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,webpack,vite,babel,jest" />
 </div>
 
-<h2 align="center">📊 GitHub Stats & Top Repos</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dash10107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daksh's GitHub Stats" />
@@ -101,10 +86,28 @@ I love taking **complex real-world challenges** and turning them into elegant co
   <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=Dash10107&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
-<br />
-<h2 align="center">💻 Github Trophies</h2>
+---
+
+## 🏅 Competitive Programming Journey
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dash10107&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1&row=1" alt="GitHub Trophies" />
+  
+**Platforms & Achievements**
+  
+<a href="https://codeforces.com/profile/Dash10107">
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces" />
+</a>
+<a href="https://www.codechef.com/users/dragoncoder13">
+  <img src="https://img.shields.io/badge/CodeChef-4⭐-orange?style=for-the-badge&logo=codechef" />
+</a>
+<a href="https://leetcode.com/u/Dash10107/">
+  <img src="https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dash10107?theme=dark&font=source_code_pro&width=500&border=0&radius=10" />
 </div>
 
 <h2 align="center">🌟 Featured Repositories</h2>
@@ -118,28 +121,46 @@ I love taking **complex real-world challenges** and turning them into elegant co
   </a>
 </div>
 
-<h2 align="center">📈 Contribution Graph</h2>
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dash10107&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dash10107&theme=github-compact&hide_border=true&area=true" />
 </div>
 
-<h2 align="center">🤝 Let's Connect</h2>
+---
 
-<p align="center">
-  I'm always open to collaborations and exciting opportunities. Feel free to reach out for tech discussions or project ideas!
-</p>
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <a href="https://twitter.com/Daksh10107"><img src="https://img.shields.io/badge/-@Daksh10107-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&size=large" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/dakshcjain/"><img src="https://img.shields.io/badge/-Daksh%20Jain-0077B5?style=flat-square&logo=Linkedin&logoColor=white&size=large" alt="LinkedIn" /></a>
-  <a href="mailto:dakshcjain@gmail.com"><img src="https://img.shields.io/badge/-dakshcjain@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&size=large" alt="Gmail" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dash10107&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&row=1" />
 </div>
 
-<br />
+---
+
+## 🤝 Let's Build Something Amazing Together
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+**Open to collaborations, exciting projects, and meaningful conversations**
+
+Whether you're looking to discuss the latest in AI, need a development partner, or just want to chat about technology — I'm always excited to connect with fellow builders and innovators.
+
+<a href="https://twitter.com/Daksh10107">
+  <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/daksh-jain-556b78212/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dakshcjain@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<p align="center">⭐️ From [Dash10107]</p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
+  
+  <sub>💡 <em>Always learning, always building, always growing</em></sub>
+</div>
