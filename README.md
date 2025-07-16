@@ -23,49 +23,55 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github.com/Dash10107/Dash10107/blob/output/github-contribution-grid-snake-dark.svg" alt="" />
-</div>
+---
 
-<h2 align="center">🚀 About Me</h2>
+## 🧠 About Me
+
+Hi, I'm Daksh — a **technologist, builder, and problem-solver**.  
+I love taking **complex real-world challenges** and turning them into elegant code.
+
+- 🔬 AI/ML & Generative Intelligence
+- 💻 Full-stack Engineering (MERN & JAMStack)
+- ☁️ Cloud DevOps & System Design
+- 💡 Blockchain, Web3 & Smart Contracts
+- ⚔️ Competitive Programming (Codeforces Pupil, 4⭐️ CodeChef)
+
+> _"Tech isn't just code — it's a way to empower ideas and people."_
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆%205x%20Hackathon%20Winner-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/🌟%204%20Star%20on%20CodeChef-4CAF50?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡%20Pupil%20on%20Codeforces-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+</div>
 
 <p align="center">
-  Greetings! I'm Daksh, a passionate tech enthusiast with a knack for innovative solutions. <br />
-  💡 Experienced in AI/ML, full-stack development, and competitive programming. <br />
-  🌱 Always eager to learn and tackle new challenges in the ever-evolving tech landscape. <br />
-  🎯 My mission: Leveraging technology to create impactful solutions for real-world problems.
+🏅 IIT Delhi Bytes Runner Hackathon 2025 – 🥇 AI Category<br>
+🏅 BITS Pilani TechXlerate Hackathon 2025 – 🥇 AI Category<br>
+🏆 Brainrot Global Hackathon – TPIA Winner<br>
+🏆 DCC InnoHacks 2025 – 🥇 AI Innovation<br>
+🎯 Source Start Winner – 28+ PRs, 30+ Issues Resolved
 </p>
 
-<h2 align="center">🏆 Achievements</h2>
+---
+
+## 🤖 Competitive Programming
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-🏆%205x%20Hackathon%20Winner-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="5x Hackathon Winner" />
-  <img src="https://img.shields.io/badge/-🌟%204%20Star%20on%20CodeChef-4CAF50?style=for-the-badge&logo=codechef&logoColor=white" alt="4 Star on CodeChef" />
-  <img src="https://img.shields.io/badge/-💡%20Pupil%20on%20Codeforces-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Pupil on Codeforces" />
+  <a href="https://leetcode.com/u/Dash10107/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/dragoncoder13"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Dash10107"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </div>
 
 <p align="center">
-  🏅 Winner of IIT DELHI Bytes Runner Hackathon 2025 in AI Domain  1st Prize <br>
-  🏅 Winner of BITS PILANI TechXlerate Campus Hackathon 2025 in AI Domain  1st Prize <br>
-  🏆 Winner of TPIA in Brainrot International Hackathon<br>
-  🏆 Winner of DCC InnoHacks 2025  in AI Domain 1st Prize <br>
-  🏅 Source Start Winner – Contributed 28+ PRs & Resolved 30+ Issues in Open Source<br>
-  🌟 4-Star Rated on CodeChef • 💡 Pupil on Codeforces
+  <img src="https://leetcard.jacoblin.cool/Dash10107?theme=dark&font=Adamina&width=500" />
 </p>
 
-<h2 align="center">💻 Competitive Programming Profile</h2>
+---
 
-<div align="center">
-  <a href="https://leetcode.com/u/Dash10107/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/dragoncoder13"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://codeforces.com/profile/Dash10107"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Dash10107?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
-</div>
 
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
