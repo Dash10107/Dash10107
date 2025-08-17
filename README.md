@@ -35,7 +35,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dash10107/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Dash10107)
 [![CodeChef](https://img.shields.io/badge/CodeChef-4⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dragoncoder13)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-850+-00C853?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-1000+-00C853?style=for-the-badge&logo=leetcode&logoColor=white)](#)
   
 </div>
 
@@ -51,7 +51,7 @@
 | 🥇 **BITS Pilani TechXlerate** | 2025 | AI Innovation Champion |
 | 🏆 **Brainrot Global Hackathon** | 2024 | TPIA Winner |
 | 🌟 **Source Start Contributor** | 2024 | 28+ PRs, 30+ Issues |
-| 🏅 **Knight @LeetCode** | Ongoing | 850+ Problems, 2K Ranking |
+| 🏅 **Knight @LeetCode** | Ongoing | 1000+ Problems, 2K Ranking |
   
 </div>
 
@@ -184,8 +184,6 @@ Whether you're looking to discuss the latest in AI, need a development partner, 
 ### 🚀 Always Learning, Always Building, Always Growing
 
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-![Snake animation](https://github.com/Dash10107/Dash10107/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
