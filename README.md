@@ -49,10 +49,16 @@
 |:---:|:---:|:---:|
 | 🥇 **IIT Delhi Bytes Runner Hackathon** | 2025 | AI Category Winner |
 | 🥇 **BITS Pilani TechXlerate** | 2025 | AI Innovation Champion |
+| 🥇 **ACE 2.0 Hackathon** | 2025 | Winner |
+| 🥇 **Next Hack Hackathon** | 2025 | AI Track Winner |
+| 🥇 **DCC Innohacks** | 2025 | Winner |
+| 🏅 **Google Agentic AI Hackathon** | 2025 | Finalist |
 | 🏆 **Brainrot Global Hackathon** | 2024 | TPIA Winner |
 | 🌟 **Source Start Contributor** | 2024 | 28+ PRs, 30+ Issues |
-| 🏅 **Knight @LeetCode** | Ongoing | 1000+ Problems, 2K Ranking |
-  
+| 🏅 **Knight @LeetCode** | Ongoing | 1000+ Problems, Top 2% |
+| ⭐ **CodeChef** | Ongoing | 4★ Rated |
+
+ 
 </div>
 
 ---
