@@ -109,8 +109,9 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dash10107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dash10107&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dash10107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dash10107&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
 
@@ -122,7 +123,8 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dash10107&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://git-hub-streak-stats.vercel.app/?user=Dash10107&theme=tokyonight" alt="GitHub Streak"/>
+
   
 </div>
 
@@ -132,8 +134,9 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=ml-nlp-portfolio&theme=tokyonight)](https://github.com/Dash10107/ml-nlp-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dash10107&repo=agentic-ai&theme=tokyonight)](https://github.com/Dash10107/agentic-ai)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=ml-nlp-portfolio&theme=tokyonight)](https://github.com/Dash10107/ml-nlp-portfolio)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=agentic-ai&theme=tokyonight)](https://github.com/Dash10107/agentic-ai)
+
   
 </div>
 
