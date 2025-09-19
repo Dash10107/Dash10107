@@ -123,7 +123,6 @@
 
 <div align="center">
   
-<img src="https://git-hub-streak-stats.vercel.app/?user=Dash10107&theme=tokyonight" alt="GitHub Streak"/>
 
   
 </div>
