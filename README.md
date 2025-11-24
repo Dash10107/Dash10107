@@ -32,10 +32,10 @@
 ### 📈 Quick Stats:
 <div align="center">
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dash10107/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dash10107/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Dash10107)
 [![CodeChef](https://img.shields.io/badge/CodeChef-4⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dragoncoder13)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-1000+-00C853?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-1500+-00C853?style=for-the-badge&logo=leetcode&logoColor=white)](#)
   
 </div>
 
@@ -54,8 +54,9 @@
 | 🥇 **DCC Innohacks** | 2025 | Winner |
 | 🏅 **Google Agentic AI Hackathon** | 2025 | Finalist |
 | 🏆 **Brainrot Global Hackathon** | 2024 | TPIA Winner |
+| 🏅 **Code Kong Global Hackathon** | 2025 | Runner Up |
 | 🌟 **Source Start Contributor** | 2024 | 28+ PRs, 30+ Issues |
-| 🏅 **Knight @LeetCode** | Ongoing | 1000+ Problems, Top 2% |
+| 🏅 **Guardian @LeetCode** | Ongoing | 1300+ Problems, Top 1% |
 | ⭐ **CodeChef** | Ongoing | 4★ Rated |
 
  
