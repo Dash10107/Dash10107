@@ -47,6 +47,7 @@
   
 | 🏆 **Achievement** | 📅 **When** | 🎯 **Impact** |
 |:---:|:---:|:---:|
+| 🥉 **Google GenAI Exchange Hackathon** | 2025 | 3rd Runner Up |
 | 🥇 **IIT Delhi Bytes Runner Hackathon** | 2025 | AI Category Winner |
 | 🥇 **BITS Pilani TechXlerate** | 2025 | AI Innovation Champion |
 | 🥇 **ACE 2.0 Hackathon** | 2025 | Winner |
@@ -55,10 +56,11 @@
 | 🏅 **Google Agentic AI Hackathon** | 2025 | Finalist |
 | 🏆 **Brainrot Global Hackathon** | 2024 | TPIA Winner |
 | 🏅 **Code Kong Global Hackathon** | 2025 | Runner Up |
+| 🥈 **Redact SPIT Hackathon** | 2025 | Special Choice Award |
+| 🏆 **Hacktoberfest** | 2025 | 6 PRs, 6 Issues, Super Contributor |
 | 🌟 **Source Start Contributor** | 2024 | 28+ PRs, 30+ Issues |
-| 🏅 **Guardian @LeetCode** | Ongoing | 1300+ Problems, Top 1% |
+| 🏅 **Guardian @LeetCode** | Ongoing | 1400+ Problems, Top 1% |
 | ⭐ **CodeChef** | Ongoing | 4★ Rated |
-
  
 </div>
 
