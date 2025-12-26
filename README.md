@@ -48,6 +48,7 @@
 | 🏆 **Achievement** | 📅 **When** | 🎯 **Impact** |
 |:---:|:---:|:---:|
 | 🥉 **Google GenAI Exchange Hackathon** | 2025 | 3rd Runner Up |
+| 🥇 **IIT Bombay Techfest AI Hackathon** | 2025 | AI Eduthon Winner |
 | 🥇 **IIT Delhi Bytes Runner Hackathon** | 2025 | AI Category Winner |
 | 🥇 **BITS Pilani TechXlerate** | 2025 | AI Innovation Champion |
 | 🥇 **ACE 2.0 Hackathon** | 2025 | Winner |
