@@ -179,7 +179,7 @@ Whether you're looking to discuss the latest in AI, need a development partner, 
 
 ### 📫 Reach Me At:
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dash10107.me-FF5722?style=for-the-badge&logoColor=white)](http://dash10107.me/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dash10107.tech-FF5722?style=for-the-badge&logoColor=white)](http://dash10107.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-jain-556b78212/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Daksh10107-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Daksh10107)
 [![Instagram](https://img.shields.io/badge/Instagram-@dakshjain.19-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dakshjain.19/)
