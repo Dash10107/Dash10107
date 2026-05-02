@@ -153,8 +153,8 @@
   
 | Platform | Rating | Problems Solved | Achievements |
 |:---:|:---:|:---:|:---:|
-| 💻 **[LeetCode](https://leetcode.com/u/Dash10107/)** | Knight | 1100+ | Global Rank: ~15K |
-| 🔥 **[Codeforces](https://codeforces.com/profile/Dash10107)** | Specialist | 300+ | Max Rating: 1400+ |
+| 💻 **[LeetCode](https://leetcode.com/u/Dash10107/)** | Guardian | 1600+ | Global Rank: ~5K |
+| 🔥 **[Codeforces](https://codeforces.com/profile/Dash10107)** | Specialist | 500+ | Max Rating: 1450+ |
 | ⭐ **[CodeChef](https://www.codechef.com/users/dragoncoder13)** | 4 Star | 150+ | Max Rating: 1900+ |
   
 </div>
