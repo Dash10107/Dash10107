@@ -57,11 +57,13 @@
 | 🏅 **Google Agentic AI Hackathon** | 2025 | Finalist |
 | 🏆 **Brainrot Global Hackathon** | 2024 | TPIA Winner |
 | 🏅 **Code Kong Global Hackathon** | 2025 | Runner Up |
+| 🏅 **Hackonomics 2026 Hackathon** | 2026 | Runner Up |
 | 🥈 **Redact SPIT Hackathon** | 2025 | Special Choice Award |
 | 🏆 **Hacktoberfest** | 2025 | 6 PRs, 6 Issues, Super Contributor |
 | 🌟 **Source Start Contributor** | 2024 | 28+ PRs, 30+ Issues |
 | 🏅 **Guardian @LeetCode** | Ongoing | 1400+ Problems, Top 1% |
 | ⭐ **CodeChef** | Ongoing | 4★ Rated |
+| 🥇 **Specialist @CodeForces** | Ongoing | 500+ Problems,1450 |
  
 </div>
 
