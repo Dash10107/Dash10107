@@ -143,11 +143,6 @@
   
 </div>
 
-### 💡 Project Highlights:
-- 🧠 **[ML-NLP Portfolio](https://github.com/Dash10107/ml-nlp-portfolio)**: Machine learning and NLP projects — research & real-world applications
-- 🤖 **[Agentic AI](https://github.com/Dash10107/agentic-ai)**: Agentic AI systems and applications, focusing on cutting-edge autonomous agents
-
----
 
 ## 🏅 Competitive Programming Journey
 
