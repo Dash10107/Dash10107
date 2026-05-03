@@ -137,7 +137,7 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=ml-nlp-portfolio&theme=tokyonight)](https://github.com/Dash10107/ml-nlp-portfolio)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=learn-ml-by-doing&theme=tokyonight)](https://github.com/Dash10107/learn-ml-by-doing)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=agentic-ai&theme=tokyonight)](https://github.com/Dash10107/agentic-ai)
 
   
