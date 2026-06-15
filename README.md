@@ -31,9 +31,11 @@
 
 <!-- ══════════════ TERMINAL HERO SECTION ══════════════ -->
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding GIF" />
+</p>
+
+<br/>
 
 ```console
 daksh@github:~$ whoami
@@ -55,13 +57,6 @@ daksh@github:~$ cat current_quest.log
 > 🏆 **Competing** : LeetCode Guardian (2300+)  
 > ✍️ **Sharing** : ML roadmaps & LLM notebooks  
 > 💬 **Ask me about**: AI, Agents, CP, Full-Stack
-
-    </td>
-    <td valign="middle" width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Developer GIF" />
-    </td>
-  </tr>
-</table>
 
 ---
 
