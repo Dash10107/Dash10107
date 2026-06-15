@@ -31,10 +31,6 @@
 
 <!-- ══════════════ TERMINAL HERO SECTION ══════════════ -->
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-
 ```console
 daksh@github:~$ whoami
 ```
@@ -58,12 +54,9 @@ daksh@github:~$ cat current_quest.log
 💬 Ask me about: LLMs, Agentic AI, Competitive Programming, Full-Stack Dev
 ```
 
-  </td>
-  <td valign="middle" width="30%" align="center">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240" style="border-radius: 12px; border: 3px solid #70a5fd;" alt="Coding GIF" />
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280" style="border-radius: 12px; border: 3px solid #70a5fd;" alt="Coding GIF" />
+</p>
 
 ---
 
