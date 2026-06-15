@@ -1,0 +1,13 @@
+name: Sign Guestbook
+description: Leave a message on my profile!
+title: "Guestbook Sign"
+labels: ["guestbook"]
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      description: What message would you like to leave on my profile?
+      placeholder: "Hey Daksh, love your competitive programming and AI projects! Keep building!"
+    validations:
+      required: true

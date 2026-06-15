@@ -1,0 +1,41 @@
+name: Update Guestbook
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-guestbook:
+    if: contains(github.event.issue.labels.*.name, 'guestbook')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Update Script
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: python scripts/update_guestbook.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff-index --quiet HEAD || (git commit -m "chore: update guestbook entries [skip ci]" && git push)
+
+      - name: Close Issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "Thanks for signing my guestbook, @${{ github.event.issue.user.login }}! Your message has been added to my profile README. ✨"
+          gh issue close ${{ github.event.issue.number }} --reason "completed"
