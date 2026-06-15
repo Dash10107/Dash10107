@@ -31,32 +31,39 @@
 
 <!-- ══════════════ TERMINAL HERO SECTION ══════════════ -->
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ```console
 daksh@github:~$ whoami
 ```
 
-> Hey, I'm Daksh — a CS undergrad at **SPIT Mumbai** ('27), currently building things as an **SDE Intern at Russell Investments**.
+> Hey, I'm Daksh — a CS undergrad at **SPIT Mumbai** ('27) and **SDE Intern at Russell Investments**.
 >
-> I got hooked on code the day I wrote my first `Hello, World` and never looked back. What started as curiosity turned into solving **1600+ LeetCode problems** (rated **2300+**, Guardian tier), winning **10+ hackathons** — at **IIT Bombay**, **Google**, **IIT Delhi**, and **BITS Pilani** — and shipping AI systems in education, hiring, and mental health.
+> I got hooked on code solving **1600+ LeetCode problems** (rated **2300+**, Guardian tier) and winning **10+ hackathons** (IIT Bombay, Google, IIT Delhi, BITS Pilani).
 >
-> These days I live in the **Generative AI** space — building agentic workflows with LangChain, fine-tuning LLMs, and creating open-source resources that help developers learn by doing. The best way to learn something is to build it, break it, and share what you learned.
+> These days I live in the **Generative AI** space — building agentic workflows, fine-tuning LLMs, and creating open-source resources to help developers learn by doing.
 
 ```console
 daksh@github:~$ cat current_quest.log
 ```
 
 ```yaml
-🔭 Building    : AI Agent frameworks, LLM notebooks, RL environments
-🧠 Exploring   : Multi-Agent Systems, RAG pipelines, Reinforcement Learning
-🏢 Working at  : Russell Investments (SDE Intern) • Amazon MLSS '25
-🏆 Competing   : LeetCode Guardian (2300+) • CF Specialist • 4★ CodeChef
-✍️ Sharing     : Open-source ML roadmaps & deep-dive notebooks
-💬 Ask me about: LLMs, Agentic AI, Competitive Programming, Full-Stack Dev
+🔭 Building    : AI Agent frameworks, LLM notebooks
+🧠 Exploring   : Multi-Agents, RAG, RL
+🏢 Working at  : Russell Investments (SDE Intern)
+🏆 Competing   : LeetCode Guardian (2300+)
+✍️ Sharing     : ML roadmaps & LLM notebooks
+💬 Ask me about: AI, Agents, CP, Full-Stack
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" style="border-radius: 16px; border: 4px solid #70a5fd; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" alt="Coding GIF" />
-</p>
+    </td>
+    <td valign="middle" width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="90%" style="border-radius: 16px; border: 4px solid #70a5fd; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
