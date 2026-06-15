@@ -34,24 +34,31 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <code>daksh@github:~$ whoami</code>
-      <blockquote>
-        <p>Hey, I'm Daksh — a CS undergrad at <b>SPIT Mumbai</b> ('27) and <b>SDE Intern at Russell Investments</b>.</p>
-        <p>I got hooked on code solving <b>1600+ LeetCode problems</b> (rated <b>2300+</b>, Guardian tier) and winning <b>10+ hackathons</b> (IIT Bombay, Google, IIT Delhi, BITS Pilani).</p>
-        <p>These days I live in the <b>Generative AI</b> space — building agentic workflows, fine-tuning LLMs, and creating open-source resources to help developers learn by doing.</p>
-      </blockquote>
-      <code>daksh@github:~$ cat current_quest.log</code>
-      <p>
-        <code>🔭 Building&nbsp;&nbsp;&nbsp;</code> : AI Agent frameworks, LLM notebooks<br/>
-        <code>🧠 Exploring&nbsp;&nbsp;</code> : Multi-Agents, RAG, RL<br/>
-        <code>🏢 Working at&nbsp;</code> : Russell Investments (SDE Intern)<br/>
-        <code>🏆 Competing&nbsp;&nbsp;</code> : LeetCode Guardian (2300+)<br/>
-        <code>✍️ Sharing&nbsp;&nbsp;&nbsp;&nbsp;</code> : ML roadmaps & LLM notebooks<br/>
-        <code>💬 Ask me about</code>: AI, Agents, CP, Full-Stack
-      </p>
+
+```console
+daksh@github:~$ whoami
+```
+
+> Hey, I'm Daksh — a CS undergrad at **SPIT Mumbai** ('27) and **SDE Intern at Russell Investments**.
+> 
+> I got hooked on code solving **1600+ LeetCode problems** (rated **2300+**, Guardian tier) and winning **10+ hackathons** (IIT Bombay, Google, IIT Delhi, BITS Pilani).
+> 
+> These days I live in the **Generative AI** space — building agentic workflows, fine-tuning LLMs, and creating open-source resources to help developers learn by doing.
+
+```console
+daksh@github:~$ cat current_quest.log
+```
+
+> 🔭 **Building** : AI Agent frameworks, LLM notebooks  
+> 🧠 **Exploring** : Multi-Agents, RAG, RL  
+> 🏢 **Working at** : Russell Investments (SDE Intern)  
+> 🏆 **Competing** : LeetCode Guardian (2300+)  
+> ✍️ **Sharing** : ML roadmaps & LLM notebooks  
+> 💬 **Ask me about**: AI, Agents, CP, Full-Stack
+
     </td>
     <td valign="middle" width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding GIF" />
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Developer GIF" />
     </td>
   </tr>
 </table>
