@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="70%">
 
 ```console
 daksh@github:~$ whoami
@@ -59,8 +59,8 @@ daksh@github:~$ cat current_quest.log
 ```
 
   </td>
-  <td valign="middle" width="35%" align="center">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding GIF" />
+  <td valign="middle" width="30%" align="center">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240" style="border-radius: 12px; border: 3px solid #70a5fd;" alt="Coding GIF" />
   </td>
   </tr>
 </table>
