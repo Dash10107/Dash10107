@@ -55,17 +55,7 @@ daksh@github:~$ cat current_quest.log
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280" style="border-radius: 12px; border: 3px solid #70a5fd;" alt="Coding GIF" />
-</p>
-
----
-
-<!-- ══════════════ GITHUB TROPHIES ══════════════ -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dash10107&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" style="border-radius: 16px; border: 4px solid #70a5fd; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" alt="Coding GIF" />
 </p>
 
 ---
@@ -141,43 +131,6 @@ daksh@github:~$ cat current_quest.log
 
 ---
 
-<!-- ══════════════ GITHUB ANALYTICS ══════════════ -->
-
-<details open>
-  <summary><h2>📊 GitHub Analytics</h2></summary>
-
-  <br/>
-
-  <!-- Stats + Languages side by side -->
-  <p align="center">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dash10107&show_icons=true&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    &nbsp;
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dash10107&layout=compact&langs_count=8&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true" alt="Top Languages" />
-  </p>
-
-  <!-- Streak — full width, centered -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dash10107&theme=react&background=1F222E&border=1F222E&ring=70A5FD&fire=F8D866&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=888888" alt="GitHub Streak" />
-  </p>
-
-  <!-- Activity Graph — full width -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dash10107&theme=react-dark&bg_color=1F222E&color=70A5FD&line=F8D866&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-  </p>
-
-  <!-- Contribution Snake -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dash10107/Dash10107/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dash10107/Dash10107/output/github-snake.svg" />
-      <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dash10107/Dash10107/output/github-snake-dark.svg" width="100%" />
-    </picture>
-  </p>
-
-</details>
-
----
-
 <!-- ══════════════ BATTLE LOG ══════════════ -->
 
 <details open>
@@ -242,6 +195,50 @@ daksh@github:~$ cat current_quest.log
   </div>
 
   </details>
+
+</details>
+
+---
+
+<!-- ══════════════ GITHUB ANALYTICS & TROPHIES ══════════════ -->
+
+<details open>
+  <summary><h2>📊 GitHub Stats &amp; Activity</h2></summary>
+
+  <br/>
+
+  <!-- Trophies -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dash10107&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+  </p>
+
+  <br/>
+
+  <!-- Stats + Languages side by side -->
+  <p align="center">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dash10107&show_icons=true&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    &nbsp;
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dash10107&layout=compact&langs_count=8&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true" alt="Top Languages" />
+  </p>
+
+  <!-- Streak — full width, centered -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dash10107&theme=react&background=1F222E&border=1F222E&ring=70A5FD&fire=F8D866&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=888888" alt="GitHub Streak" />
+  </p>
+
+  <!-- Activity Graph — full width -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dash10107&theme=react-dark&bg_color=1F222E&color=70A5FD&line=F8D866&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  </p>
+
+  <!-- Contribution Snake -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dash10107/Dash10107/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dash10107/Dash10107/output/github-snake.svg" />
+      <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dash10107/Dash10107/output/github-snake-dark.svg" width="100%" />
+    </picture>
+  </p>
 
 </details>
 
