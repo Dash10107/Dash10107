@@ -284,7 +284,7 @@ daksh@github:~$ cat current_quest.log
 <p align="center">
   <b>If you like what I build, consider giving my repos a ⭐ — it fuels the grind!</b>
   <br/><br/>
-  <i>"The best way to predict the future is to invent it."</i> — Alan Kay
+  <i>"The best way to predict the future is to invent it."</i> — Alan Kay 
 </p>
 
 <!-- Footer -->
