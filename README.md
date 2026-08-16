@@ -69,19 +69,19 @@ daksh@github:~$ cat current_quest.log
 
   <p align="center">
     <a href="https://github.com/Dash10107/deepdive-llms-notebooks">
-      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=deepdive-llms-notebooks&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="deepdive-llms-notebooks"/>
+      <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dash10107&repo=deepdive-llms-notebooks&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="deepdive-llms-notebooks"/>
     </a>
     <a href="https://github.com/Dash10107/agentic-ai">
-      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=agentic-ai&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="agentic-ai"/>
+      <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dash10107&repo=agentic-ai&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="agentic-ai"/>
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/Dash10107/learn-ml-by-doing">
-      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=learn-ml-by-doing&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="learn-ml-by-doing"/>
+      <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dash10107&repo=learn-ml-by-doing&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="learn-ml-by-doing"/>
     </a>
     <a href="https://github.com/Dash10107/rl-portfolio">
-      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dash10107&repo=rl-portfolio&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="rl-portfolio"/>
+      <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dash10107&repo=rl-portfolio&theme=react&bg_color=1F222E&title_color=70A5FD&hide_border=true&icon_color=F8D866" alt="rl-portfolio"/>
     </a>
   </p>
 
@@ -207,18 +207,20 @@ daksh@github:~$ cat current_quest.log
 
   <br/>
 
-  <!-- Trophies -->
+  <!-- Trophies (Currently disabled because the public API is returning 402 Payment Required due to Vercel limits) -->
+  <!--
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Dash10107&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
   </p>
+  -->
 
   <br/>
 
   <!-- Stats + Languages side by side -->
   <p align="center">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dash10107&show_icons=true&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Dash10107&show_icons=true&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     &nbsp;
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dash10107&layout=compact&langs_count=8&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dash10107&layout=compact&langs_count=8&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true" alt="Top Languages" />
   </p>
 
   <!-- Streak — full width, centered -->
