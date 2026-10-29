@@ -10,7 +10,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Dash10107">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=620&height=80&lines=SDE+Intern+%40+Russell+Investments;Generative+AI+Engineer+%7C+Builder;LeetCode+Guardian+(2300%2B)+%7C+Top+1%25;10%2B+Hackathon+Wins+%7C+Code.+Ship.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=620&height=80&lines=SDE+Intern+%40+Russell+Investments;Generative+AI+Engineer+%7C+Builder;LeetCode+Guardian+(2300%2B)+%7C+Top+1%25;12%2B+Hackathon+Wins+%7C+Code.+Ship.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ daksh@github:~$ whoami
 
 > Hey, I'm Daksh — a CS undergrad at **SPIT Mumbai** ('27) and **SDE Intern at Russell Investments**.
 > 
-> I got hooked on code solving **1600+ LeetCode problems** (rated **2300+**, Guardian tier) and winning **10+ hackathons** (IIT Bombay, Google, IIT Delhi, BITS Pilani).
+> I got hooked on code solving **1600+ LeetCode problems** (rated **2300+**, Guardian tier) and winning **12+ hackathons** (IIT Bombay, Google, IIT Delhi, BITS Pilani).
 > 
 > These days I live in the **Generative AI** space — building agentic workflows, fine-tuning LLMs, and creating open-source resources to help developers learn by doing.
 
@@ -170,7 +170,7 @@ daksh@github:~$ cat current_quest.log
   <h3 align="center">🏆 Hackathon &amp; Achievement Highlights</h3>
 
   <details>
-    <summary><b>🔥 10+ Hackathon Wins — Click to Expand</b></summary>
+    <summary><b>🔥 12+ Hackathon Wins — Click to Expand</b></summary>
     <br/>
 
   <div align="center">
@@ -184,6 +184,7 @@ daksh@github:~$ cat current_quest.log
   | 🥇 ACE 2.0 Hackathon | 2025 | Winner |
   | 🥇 Next Hack Hackathon | 2025 | AI Track Winner |
   | 🥇 DCC Innohacks | 2025 | Winner |
+  | 🥇 Adapt 3.0 Hackathon | 2026 | Winner |
   | 🏅 Google Agentic AI Hackathon | 2025 | Finalist |
   | 🏆 Brainrot Global Hackathon | 2024 | TPIA Winner |
   | 🏅 Code Kong Global Hackathon | 2025 | Runner Up |
@@ -218,9 +219,9 @@ daksh@github:~$ cat current_quest.log
 
   <!-- Stats + Languages side by side -->
   <p align="center">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Dash10107&show_icons=true&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dash10107&theme=github_dark" alt="GitHub Stats" />
     &nbsp;
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dash10107&layout=compact&langs_count=8&theme=react&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dash10107&theme=github_dark" alt="Top Languages" />
   </p>
 
   <!-- Streak — full width, centered -->
@@ -230,7 +231,7 @@ daksh@github:~$ cat current_quest.log
 
   <!-- Activity Graph — full width -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dash10107&theme=react-dark&bg_color=1F222E&color=70A5FD&line=F8D866&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dash10107&theme=github_dark" width="100%" alt="GitHub Activity Summary" />
   </p>
 
   <!-- Contribution Snake -->
@@ -270,7 +271,7 @@ daksh@github:~$ cat current_quest.log
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="http://dash10107.tech/"><img src="https://img.shields.io/badge/Portfolio-dash10107.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://dash10107.tech/"><img src="https://img.shields.io/badge/Portfolio-dash10107.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/daksh-jain-556b78212/"><img src="https://img.shields.io/badge/LinkedIn-Daksh_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
